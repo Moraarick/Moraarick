@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moraarick
+- 👋 Hi, I’m Ricardo Mora
 - 👀 I’m interested in Software Development and football
 - 🌱 I’m currently learning Domain Driven Design and Event Driven Development
 - 💞️ I’m looking to collaborate on Inditex
